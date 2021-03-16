@@ -72,6 +72,8 @@ h1 {
     margin: 0 auto;
 }
 button {
+    margin-top: 19px;
+    
     color: #fff;
     font-family: Anton;
     font-style: normal;
